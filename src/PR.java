@@ -2,7 +2,7 @@
 public class PR {
 
 	public static void main(String[] args) {
-		System.out.println("´ëÇõ");
+		System.out.println("¼öÁ¤");
 	}
 
 }
